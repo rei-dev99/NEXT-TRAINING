@@ -1,6 +1,11 @@
 # これはNEXT.jsとshadcnで練習したサイトです。
 
+URL
+
+https://next-training-nu-umber.vercel.app/
+
 youtubeの動画を参考にしています。
+
 https://youtu.be/Kh4Fk-1_JcA?si=6I3iNg79nnq7RBdO
 
 
