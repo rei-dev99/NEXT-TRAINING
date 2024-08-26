@@ -1,3 +1,9 @@
+# これはNEXT.jsとshadcnで練習したサイトです。
+
+youtubeの動画を参考にしています。
+https://youtu.be/Kh4Fk-1_JcA?si=6I3iNg79nnq7RBdO
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
